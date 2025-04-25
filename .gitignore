@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+music-happiness-predictor-C4.5-erm.ipynb
+music-happiness-predictor-C5.0-erm.ipynb
